@@ -10,5 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Print Welcome Message
-        run: echo "Hello Priyanshi! My first GitHub Action is running successfully."
+      - name: Welcome Message
+        run: echo "Welcome to My First CI Pipeline"
+
+      - name: Show Current Date
+        run: date
+
+      - name: Show Operating System
+        run: uname -a
+
+      - name: List Repository Files
+        run: ls -la
+
+      - name: Success Message
+        run: echo "CI Pipeline Completed Successfully!"
