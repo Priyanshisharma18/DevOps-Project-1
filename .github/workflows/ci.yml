@@ -25,7 +25,7 @@ jobs:
       - name: Success Message
         run: echo "CI Pipeline Completed Successfully!"
 
-        - name: Check HTML File
+      - name: Check HTML File
         run: |
           if [ -f index.html ]; then
             echo "✅ index.html file found!"
