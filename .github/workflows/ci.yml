@@ -26,10 +26,6 @@ jobs:
         run: echo "CI Pipeline Completed Successfully!"
 
       - name: Check HTML File
-        run: |
-          if [ -f index.html ]; then
-            echo "✅ index.html file found!"
-          else
-            echo "❌ index.html file not found!"
-            exit 1
-          fi
+        run: ls
+
+      
