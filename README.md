@@ -1,3 +1,5 @@
+[![My First CI](https://github.com/Priyanshisharma18/DevOps-Project-1/actions/workflows/ci.yml/badge.svg)](https://github.com/Priyanshisharma18/DevOps-Project-1/actions/workflows/ci.yml)
+
 # DevOps Project 1 - Git & GitHub Workflow
 
 ## 📌 Project Overview
