@@ -30,3 +30,17 @@ This project demonstrates the basic Git and GitHub workflow, including repositor
 
 ## 👩‍💻 Author
 Priyanshi Sharma
+
+## 🎯 What I Learned
+- Git Repository Creation
+- Git Branching
+- Pull Request & Merge
+- GitHub Pages Deployment
+- GitHub Actions (CI)
+- Basic YAML Workflow
+
+## 🚀 Future Improvements
+- Add Docker Support
+- Add Jenkins CI/CD
+- Deploy on AWS
+- Kubernetes Integration
